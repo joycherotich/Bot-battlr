@@ -44,7 +44,7 @@ These deliverables are not required to pass the code challenge, but if you have 
 Choose if I want to enlist a bot into my army or just see their data. Clicking on the card should instead display a show view (BotSpecs) for that bot, which should replace BotsCollection. BotSpecs should have two buttons: one to go back to the list view and another to enlist that bot.
 
 ## Author
-Joy cherotich(https://github.com/joycherotich/phase2-bot.git)
+Joy cherotich(https://github.com/joycherotich/bot-battlr.git)
 
 ## License
 Under MIT
